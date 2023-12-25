@@ -1,0 +1,3 @@
+service:
+  message: "Prod environment config"
+  version: "1.0"
