@@ -1,4 +1,3 @@
 service:
   message: "Dev environment config"
   version: "3.0"
-  secret: "test123"

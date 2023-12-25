@@ -1,4 +1,3 @@
 service:
   message: "QA environment config"
   version: "2.0"
-  secret: "test123"
